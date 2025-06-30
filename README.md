@@ -1,7 +1,7 @@
 <img src="https://github.com/ushi86/ushi86/blob/main/name.png?raw=true" alt="banner"/>
 
 ## 🌐 Socials:
-[![Discord](https://github.com/ushi86/ushi86/blob/main/gif/dixs.gif?raw=true)](https://discord.gg/ushi3634) [![LinkedIn](https://github.com/ushi86/ushi86/blob/main/gif/link.gif?raw=true)](https://linkedin.com/in/hanodjacob) [![X](https://github.com/ushi86/ushi86/blob/main/gif/twitter.gif)](https://x.com/blitzey86) 
+[![Discord](https://github.com/ushi86/ushi86/blob/main/gif/dixs.gif?raw=true)](https://discord.gg/diekneee) [![LinkedIn](https://github.com/ushi86/ushi86/blob/main/gif/link.gif?raw=true)](https://linkedin.com/in/hanodjacob) [![X](https://github.com/ushi86/ushi86/blob/main/gif/twitter.gif)](https://x.com/diekneee) 
 
 
 
